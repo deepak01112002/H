@@ -1,0 +1,17 @@
+@font-face{
+    font-family:Baburaw;
+    src: url('../fonts/RubikBrokenFax-Regular.ttf');
+}
+
+
+
+#head1{
+    /* color: red; */
+    font-family: Baburaw;
+    font-size: 78px;
+
+}
+
+#pink{
+    color: pink;
+}
